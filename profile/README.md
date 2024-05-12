@@ -1,8 +1,10 @@
-<img align="left" style="float: left; margin: 0 10px 0 0;" alt="OpenTASS horizontal transparent logo" src="https://raw.githubusercontent.com/OpenTASS/.github/main/branding/opentass-transparent-vertical.png">
+<img width="380" align="left" style="float: left; margin: 0 10px 0 0;" alt="OpenTASS horizontal transparent logo" src="https://raw.githubusercontent.com/OpenTASS/.github/main/branding/opentass-transparent-vertical.png">
 
-# OpenTASS
+<br>
 
 ### The OpenTASS Project aims to provide a Free Software interface to access The Alpha School System (TASS).
+
+<br><br><br>
 
 ## Directory
 
