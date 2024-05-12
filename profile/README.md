@@ -22,5 +22,5 @@ We have some GUI frontends (user-friendly applications) on the agenda, so stay t
 🆓 We are big advocates of the Free Software movement, meaning anyone can see the source code and contribute, making the project better, or freely modify and redistribute copies! \
 🌈 If you like what we're doing, feel free to help contribute to the project. It can be as simple as submitting an issue, a pull request, or simply starring the projects. Make sure you stick to our guidelines; you'll find them in our repositories. \
 👩‍💻 People may find the library a bit confusing, we're working on making it a little more... intuitive. Take a look at the docs! They can be found in the wiki pages of the repos. \
-🍿 If you need help, you can contact us with the email above, and you can always submit an issue if you find something weird or a feature you would like. \
+❓ If you need help, you can contact us with the email above, and you can always submit an issue if you find something weird or a feature you would like. \
 🧙 We hope these insignificant little projects helps you get a little more productive or really anything of your need!
